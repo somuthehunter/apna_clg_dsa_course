@@ -131,7 +131,7 @@ void print_array(int *arr, int size)
 
 int main()
 {
-    //uses for reverse array , sum_product , minSwapMax !!!
+    // uses for reverse array , sum_product , minSwapMax !!!
     int arr[] = {12, 35, 1, 10, 34, 7};
     int arr1[] = {1, 2, 3, 4};
     int arr2[] = {7, 5, 6, 1};
